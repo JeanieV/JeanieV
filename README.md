@@ -1,22 +1,19 @@
-### Hi there 👋
+# Hi, I'm Jeanie! 👋
+## Nice seeing you here.
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanieV&layout=compact&theme=synthwave)](https://github.com/JeanieV/github-readme-stats)
-
-# [Your Name]
-
-![Profile Picture](link-to-your-profile-picture.jpg)
-
-## About Me
-
-Hello, I'm [Your Name]. I am passionate about [your interests or expertise]. This README serves as a brief introduction to who I am and what I do.
+I am passionate about coding but I assume that is what most developers readme's say. 
 
 - 💼 I currently work as a [your current job title].
 - 🌱 I'm constantly learning and exploring new technologies.
 - 👯 I'm open to collaborations and project ideas.
 - 📫 You can reach me at [your email address].
 - 📄 Check out my [LinkedIn profile](https://www.linkedin.com/in/yourusername/) for more details.
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanieV&layout=donut&theme=synthwave)](https://github.com/JeanieV/github-readme-stats)
+
+
 
 ## Projects
 
