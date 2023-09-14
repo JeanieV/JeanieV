@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ## Top Languages
 
+[![Top Langs](github-readme-stats-two-black-71.vercel.app/api/top-langs/?username=JeanieV&layout=donut&theme=radical)](https://github.com/JeanieV/github-readme-stats)
 
 # [Your Name]
 
