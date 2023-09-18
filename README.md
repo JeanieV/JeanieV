@@ -1,13 +1,13 @@
 # Hi, I'm Jeanie! 👋
-## Nice seeing you here.
+## Welcome to my GitHub.
 
 I am passionate about coding but I assume that is what most developers readme's say. 
 
 - 💼 I currently work as a [your current job title].
 - 🌱 I'm constantly learning and exploring new technologies.
 - 👯 I'm open to collaborations and project ideas.
-- 📫 You can reach me at [your email address].
-- 📄 Check out my [LinkedIn profile](https://www.linkedin.com/in/yourusername/) for more details.
+- 📫 You can reach me at venterjeaniebs@gmail.com
+- 📄 Check out my [LinkedIn profile]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jeanie-venter/) for more details.
 
 ## Top Languages
 
