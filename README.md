@@ -7,7 +7,7 @@ I am passionate about coding but I assume that is what most developers readme's 
 - 🌱 I'm constantly learning and exploring new technologies.
 - 👯 I'm open to collaborations and project ideas.
 - 📫 You can reach me at venterjeaniebs@gmail.com
-- 📄 Check out my [LinkedIn profile]([https://www.linkedin.com/in//](https://www.linkedin.com/in/jeanie-venter/) for more details.
+- 📄 Check out my ([https://www.linkedin.com/in//](https://www.linkedin.com/in/jeanie-venter/) for more details.
 
 ## Top Languages
 
