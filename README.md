@@ -17,11 +17,11 @@ I am passionate about back-end and front-end development!
 
 At CodeSpace Academy, I worked on several projects:
 
-### Hotel-Booking-App()
+### Hotel-Booking-App(hotel-booking-app-lake.vercel.app)
 
 Greece Bookings is a php project where users can make bookings at hotels in Greece. For more information on the code I used, feel free to contact me.
 
-[hotel-booking-app-lake.vercel.app]
+
 
 
 ## Skills
