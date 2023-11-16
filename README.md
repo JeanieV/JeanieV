@@ -1,7 +1,7 @@
 # Hi, I'm Jeanie! 👋
 ## Welcome to my GitHub.
 
-I am passionate about coding but I assume that is what most developers readme's say. 
+I am passionate about back-end and front-end development! 
 
 - 💼 I currently work as a [your current job title].
 - 🌱 I'm constantly learning and exploring new technologies.
@@ -19,9 +19,9 @@ At CodeSpace Academy, I worked on several projects:
 
 ### Hotel-Booking-App()
 
-[Project Name 1] is a [brief description of the project]. You can find more details in the [repository](link-to-project-1).
+Greece Bookings is a php project where users can make bookings at hotels in Greece. For more information on the code I used, feel free to contact me.
 
-![Project 1 Screenshot](link-to-screenshot-1.png)
+[hotel-booking-app-lake.vercel.app]
 
 
 ## Skills
